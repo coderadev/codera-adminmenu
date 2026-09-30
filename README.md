@@ -1,3 +1,4 @@
+<img width="1919" height="1079" alt="Screenshot 2026-09-30 061524" src="https://github.com/user-attachments/assets/3492358d-1308-4165-8735-24813c129731" />
 # codera-adminmenu
 
 A modern, dark-themed admin menu for FiveM with a searchable command-palette interface.
